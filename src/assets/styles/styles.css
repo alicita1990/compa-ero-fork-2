@@ -9,7 +9,7 @@ html {
 
 body {
   font-family: 'Raleway', sans-serif;
-  background: #0f0c29;
+  background: #2a1aba;
   background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);
   background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
   color: #fff;
@@ -94,7 +94,7 @@ ul {
 }
 
 .bkg-secondary {
-  background-color: #21203f;
+  background-color: #0d098b;
 }
 
 .border-transparent {
